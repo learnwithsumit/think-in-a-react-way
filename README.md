@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 1 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -20,7 +20,18 @@
 
 ## How to run
 
-Different lessons taught in the Youtube Tutorial Series are organized in separate branches. For example, lesson-1 source code is shared in lesson-1 branch. Just switch to a branch and see corresponding README file instruction.
+Please follow the below instructions to run this project in your machine:
+
+1. Clone this repository
+   ```sh
+   git clone https://github.com/learnwithsumit/think-in-a-react-way.git
+   ```
+2. Checkout to branch lesson-1
+   ```sh
+   git checkout lesson-1
+   ```
+3. Install VS Code Live Server plugin and start the server as directed in tutorial video
+4. Your app should be available in http://localhost:5500
 
 <!-- CONTACT -->
 
