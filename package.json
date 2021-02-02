@@ -1,0 +1,16 @@
+{
+  "name": "think-in-a-react-way",
+  "version": "1.0.0",
+  "description": "All the lessons given regarding React JS in Learn with Sumit React JS Tutorial Series called \"Think in a React way\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learnwithsumit",
+    "sumit",
+    "saha"
+  ],
+  "author": "Sumit Saha <sumit.analyzen@gmail.com>",
+  "license": "UNLICENSED"
+}
