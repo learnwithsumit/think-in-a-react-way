@@ -20,7 +20,7 @@
 
 ## How to run
 
-Please follow the below instructions to run this project in your machine:
+Please follow the below instructions to run this project in your computer:
 
 1. Clone this repository
    ```sh
