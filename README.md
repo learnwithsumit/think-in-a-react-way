@@ -30,7 +30,7 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    git checkout lesson-1
    ```
-3. Install VS Code Live Server plugin and start the server as described in tutorial video
+3. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
 4. Your app should be available in http://localhost:5500
 
 <!-- CONTACT -->
