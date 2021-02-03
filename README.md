@@ -1,6 +1,6 @@
 [![Youtube][youtube-shield]][youtube-url]
-[![Facebook Page][facebook-shield]][facebook-url]
-[![Facebook Group][facebook-shield]][facebook-group-url]
+[![Facebook-Page][facebook-shield]][facebook-url]
+[![Facebook-Group][facebook-shield]][facebook-group-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
