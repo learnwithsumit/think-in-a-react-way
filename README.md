@@ -26,7 +26,7 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch lesson-1
+2. Checkout to branch "lesson-1"
    ```sh
    git checkout lesson-1
    ```
