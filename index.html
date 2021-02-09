@@ -1,11 +1,3 @@
-<!--
- * Title: Starting HTML file
- * Description: Initial HTML page for our application
- * Author: Sumit Saha ( Learn with Sumit )
- * Date: 02/03/2021
- *
- -->
- 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -13,15 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>React Tutorial</title>
     <link rel="stylesheet" href="style.css" />
+    <style></style>
   </head>
   <body>
     <div class="container">
-      <div>
-        <h1 id="display">0</h1>
-        <div>
-          <button id="button">Increment +</button>
-        </div>
-      </div>
+      <ul id="fruits"></ul>
+      <br />
+      <p>
+        <input type="text" id="input" />
+      </p>
+      <button id="button" onclick="addItem()">Add Item</button>
     </div>
     <script src="./script.js"></script>
   </body>

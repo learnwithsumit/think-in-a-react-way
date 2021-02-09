@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 1 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 2 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,12 +26,13 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch "lesson-1"
+2. Checkout to branch "lesson-2"
    ```sh
-   git checkout lesson-1
+   git checkout lesson-2
    ```
 3. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
 4. Your app should be available in http://localhost:5500
+5. You can now visit any html file in the folder for example http://localhost:5500/react.html. Corresponding .js file names can be found inside the .html files src tags.
 
 <!-- CONTACT -->
 
