@@ -125,7 +125,7 @@ yarn lint #or 'npm run lint'
 
 ### Create Linting Configuration file manually
 
-Create a `.eslintrc.json` file in the project root and enter the below contents:
+Create a `.eslintrc` file in the project root and enter the below contents:
 
 ```json
 {
