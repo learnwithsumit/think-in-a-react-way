@@ -169,7 +169,8 @@ Create a `.eslintrc` file in the project root and enter the below contents:
         "singleQuote": true,
         "printWidth": 100,
         "tabWidth": 4,
-        "semi": true
+        "semi": true,
+        "endOfLine": "auto"
       }
     ]
   },
