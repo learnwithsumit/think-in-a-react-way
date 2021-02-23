@@ -134,7 +134,6 @@ Create a `.eslintrc` file in the project root and enter the below contents:
     "airbnb/hooks",
     "eslint:recommended",
     "prettier",
-    "prettier/react",
     "plugin:jsx-a11y/recommended"
   ],
   "parser": "babel-eslint",
