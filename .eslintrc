@@ -17,6 +17,9 @@
     "jest": true
   },
   "rules": {
+    "react/jsx-no-bind": 0,
+    "react/prefer-stateless-function": 0,
+    "class-methods-use-this": 0,
     "react/react-in-jsx-scope": 0,
     "react-hooks/rules-of-hooks": "error",
     "no-console": 0,
