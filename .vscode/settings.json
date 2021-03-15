@@ -11,13 +11,16 @@
   "workbench.colorTheme": "Dracula",
 
   // config related to code formatting
+  "editor.fontSize": 22,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "[javascriptreact]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "javascript.validate.enable": false, //disable all built-in syntax checking
   "editor.codeActionsOnSave": {
@@ -26,7 +29,6 @@
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   // emmet
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
