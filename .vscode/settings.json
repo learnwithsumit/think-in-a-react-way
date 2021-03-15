@@ -11,6 +11,7 @@
   "workbench.colorTheme": "Dracula",
 
   // config related to code formatting
+  "editor.fontSize": 22,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
