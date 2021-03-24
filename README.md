@@ -73,10 +73,12 @@ Follow the below settings for VS Code -
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "[javascriptreact]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "javascript.validate.enable": false, //disable all built-in syntax checking
   "editor.codeActionsOnSave": {
@@ -85,7 +87,6 @@ Follow the below settings for VS Code -
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   // emmet
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
