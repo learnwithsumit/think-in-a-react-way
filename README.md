@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 10 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 11 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -32,9 +32,9 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch "lesson-10"
+2. Checkout to branch "lesson-11"
    ```sh
-   git checkout lesson-10
+   git checkout lesson-11
    ```
 3. Run
    ```sh
@@ -73,10 +73,12 @@ Follow the below settings for VS Code -
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "[javascriptreact]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "javascript.validate.enable": false, //disable all built-in syntax checking
   "editor.codeActionsOnSave": {
@@ -85,7 +87,6 @@ Follow the below settings for VS Code -
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   // emmet
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
