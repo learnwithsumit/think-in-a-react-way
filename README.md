@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 12 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Lesson 13 - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -33,9 +33,9 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch "lesson-12"
+2. Checkout to branch "lesson-13"
    ```sh
-   git checkout lesson-12
+   git checkout lesson-13
    ```
 3. Run
    ```sh
