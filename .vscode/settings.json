@@ -8,7 +8,7 @@
 
 {
   // config related to code formatting
-  "editor.fontSize": 20,
+  "editor.fontSize": 24,
   "editor.fontFamily": "OperatorMonoLig-Light",
   "editor.hover.enabled": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
