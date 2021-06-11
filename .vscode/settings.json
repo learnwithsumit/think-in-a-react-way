@@ -10,7 +10,7 @@
   // config related to code formatting
   "editor.fontSize": 20,
   "editor.fontFamily": "OperatorMonoLig-Book",
-  "editor.hover.enabled": true,
+  "editor.hover.enabled": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
