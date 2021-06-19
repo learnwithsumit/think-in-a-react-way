@@ -33,7 +33,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "terminal.integrated.fontFamily": "OperatorMonoLig-Light, Hack Nerd Font, Meslo LG L DZ for Powerline",
+  "terminal.integrated.fontFamily": "OperatorMonoLig-Book, Hack Nerd Font, Meslo LG L DZ for Powerline",
   "terminal.integrated.fontSize": 14,
   "window.zoomLevel": 2
 }
