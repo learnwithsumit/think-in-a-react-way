@@ -1,0 +1,22 @@
+.logo {
+  width: 300px;
+  position: relative;
+  margin: 2rem;
+}
+
+.glasses {
+  width: 207px;
+  position: absolute;
+  left: 17%;
+  bottom: 33%;
+}
+
+.coloredLine {
+  fill: #52d794;
+}
+
+.play {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-evenly;
+}
