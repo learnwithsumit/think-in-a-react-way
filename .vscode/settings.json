@@ -8,8 +8,8 @@
 
 {
   // config related to code formatting
-  "editor.fontSize": 22,
-  "editor.fontFamily": "OperatorMonoLig-Book",
+  "editor.fontSize": 21,
+  "editor.fontFamily": "OperatorMonoLig-Book, OperatorMonoLig-Light",
   "editor.hover.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
@@ -34,5 +34,5 @@
     "javascript": "javascriptreact"
   },
   "terminal.integrated.fontFamily": "OperatorMonoLig-Book, Hack Nerd Font, Meslo LG L DZ for Powerline",
-  "terminal.integrated.fontSize": 18
+  "terminal.integrated.fontSize": 16
 }
