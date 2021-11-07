@@ -1,4 +1,4 @@
-import { Redirect, Route, Switch } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Hello from "./components/Hello";
 import Post from "./components/Post";
@@ -8,20 +8,14 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Switch>
-        <Route path="/" exact>
-          <Redirect to="/hello" />
+      <Routes>
+        <Route path="/" element={<Navigate to="/hello" />} />
+        <Route path="/hello/*" element={<Hello />}>
+          <Route path="world" element={<p>This is world!</p>} />
         </Route>
-        <Route path="/hello">
-          <Hello />
-        </Route>
-        <Route path="/posts" exact>
-          <Posts />
-        </Route>
-        <Route path="/posts/:postId">
-          <Post />
-        </Route>
-      </Switch>
+        <Route path="/posts/" element={<Posts />} />
+        <Route path="/posts/:postId" element={<Post />} />
+      </Routes>
     </div>
   );
 }
