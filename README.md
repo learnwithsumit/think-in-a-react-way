@@ -1,26 +1,44 @@
 [![Youtube][youtube-shield]][youtube-url]
-[![Facebook Page][facebook-shield]][facebook-url]
-[![Facebook Group][facebook-shield]][facebook-group-url]
+[![Facebook-Page][facebook-shield]][facebook-url]
+[![Facebook-Group][facebook-shield]][facebook-group-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React Router Version 5 Example - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
+- [About](#about)
 - [How to run](#how-to-run)
 - [Contact](#contact)
 
 <!-- HOW TO RUN -->
 
+## About
+
+This is the example project built with react-router 5 shown in Lesson 45.
+
+<!-- HOW TO RUN -->
+
 ## How to run
 
-Different lessons taught in the Youtube Tutorial Series are organized in separate branches. For example, lesson-1 source code is shared in lesson-1 branch. Just switch to a branch and see corresponding README file instruction.
+Please follow the below instructions to run this project in your computer:
+
+1. Clone this repository
+   ```sh
+   git clone https://github.com/learnwithsumit/think-in-a-react-way.git
+   ```
+2. Checkout to branch "router-5"
+   ```sh
+   git checkout router-5
+   ```
+3. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
+4. Your app should be available in http://localhost:5500
 
 <!-- CONTACT -->
 
