@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React Router Version 5 Example - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React Router Version 5 Private Route Example - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -21,7 +21,7 @@
 
 ## About
 
-This is the example project built with react-router 5 shown in Lesson 45.
+This is the example project built with react-router 5 shown in Lesson 46.
 
 <!-- HOW TO RUN -->
 
@@ -33,12 +33,12 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch "router-5"
+2. Checkout to branch "private-router-5"
    ```sh
-   git checkout router-5
+   git checkout private-router-5
    ```
 3. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
-4. Your app should be available in http://localhost:5500
+4. Your app should be available in http://localhost:3000
 
 <!-- CONTACT -->
 
