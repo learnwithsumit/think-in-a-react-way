@@ -33,12 +33,20 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    git clone https://github.com/learnwithsumit/think-in-a-react-way.git
    ```
-2. Checkout to branch "private-router-5"
+2. Go to the cloned project directory
+   ```sh
+   cd think-in-a-react-way
+   ```
+3. Checkout to branch "private-router-5"
    ```sh
    git checkout private-router-5
    ```
-3. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
-4. Your app should be available in http://localhost:3000
+4. Install neessary node_modules
+   ```sh
+   npm i
+   ```
+5. Install VS Code Live Server plugin and start the server as described in youtube tutorial video
+6. Your app should be available in http://localhost:3000
 
 <!-- CONTACT -->
 
