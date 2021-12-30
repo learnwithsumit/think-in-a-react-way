@@ -6,7 +6,7 @@ export default function Header() {
     <div>
       <ul>
         <li>
-          <NavLink to="/hello" activeClassName={classes.active}>
+          <NavLink to="/" activeClassName={classes.active}>
             Home
           </NavLink>
         </li>
