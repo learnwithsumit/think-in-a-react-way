@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React Router Version 5 Private Route Example - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React Router Version 6 Private Route Example - Think in a React way Tutorial Series [ in Bangla ]</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -21,7 +21,7 @@
 
 ## About
 
-This is the example project built with react-router 5 shown in Lesson 46.
+This is the example project built with react-router 6 shown in Lesson 46.
 
 <!-- HOW TO RUN -->
 
@@ -37,9 +37,9 @@ Please follow the below instructions to run this project in your computer:
    ```sh
    cd think-in-a-react-way
    ```
-3. Checkout to branch "private-router-5"
+3. Checkout to branch "lesson-46"
    ```sh
-   git checkout private-router-5
+   git checkout lesson-46
    ```
 4. Install neessary node_modules
    ```sh

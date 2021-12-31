@@ -1,20 +1,21 @@
-import { Route, Switch } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Dashboard from "./components/Dashboard";
 import Header from "./components/Header";
 import Homepage from "./components/Homepage";
+import Login from "./components/Login";
+import PrivateOutlet from "./components/PrivateOutlet";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Switch>
-        <Route path="/" exact>
-          <Homepage />
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/*" element={<PrivateOutlet />}>
+          <Route path="dashboard" element={<Dashboard title="Dashboard" />} />
         </Route>
-        <Route path="/dashboard" exact>
-          <Dashboard />
-        </Route>
-      </Switch>
+      </Routes>
     </div>
   );
 }
