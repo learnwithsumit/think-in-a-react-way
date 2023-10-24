@@ -53,7 +53,7 @@ You can use any editor but as I personally prefer VS Code. I will give some inst
 
 You need to install the below plugins:
 
-- ESLint by Dirk Baeumer
+- ESLint by Microsoft
 - Prettier - Code formatter by Prettier
 - Dracula Official Theme (optional)
 
@@ -144,7 +144,7 @@ Create a `.eslintrc` file in the project root and enter the below contents:
     "prettier",
     "plugin:jsx-a11y/recommended"
   ],
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "parserOptions": {
     "ecmaVersion": 8
   },
